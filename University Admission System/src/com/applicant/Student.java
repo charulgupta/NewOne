@@ -77,5 +77,9 @@ public class Student {
 		return add
 	}
 	
+	public void withdrawAmount(){
+		return withdraw;
+	}
+	
 
 }

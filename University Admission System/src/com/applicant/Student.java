@@ -73,5 +73,9 @@ public class Student {
 				+ SSCMarks + ", HSCMarks=" + HSCMarks + "]";
 	}
 	
+	public void addAmount(){
+		return add
+	}
+	
 
 }
